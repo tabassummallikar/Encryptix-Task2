@@ -10,7 +10,7 @@ Duration: Oct to Nov 2024
 
 **Overview of the Project**
 
-**Project: To-Do List Application**
+**Project: Calculator**
 
 **Objective**
 
@@ -49,6 +49,8 @@ User Interaction: Provides a menu for operation selection and prompts for number
 Input Validation: Checks for valid operation and number inputs to prevent errors.
 
 Division Handling: Includes error handling for division by zero.
+
+![image alt](https://github.com/tabassummallikar/Encryptix-Task2/blob/c7d920354b29be028ef34da3579df309ba94272e/Screenshot%20(4).png)
 
 
 
